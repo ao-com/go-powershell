@@ -10,7 +10,7 @@ commands.
 
 ## Installation
 
-    go get github.com/gorillalabs/go-powershell
+    go get github.com/ao-com/go-powershell
 
 ## Usage
 
@@ -24,8 +24,8 @@ package main
 import (
 	"fmt"
 
-	ps "github.com/gorillalabs/go-powershell"
-	"github.com/gorillalabs/go-powershell/backend"
+	ps "github.com/ao-com/go-powershell"
+	"github.com/ao-com/go-powershell/backend"
 )
 
 func main() {
@@ -62,9 +62,9 @@ package main
 import (
 	"fmt"
 
-	ps "github.com/gorillalabs/go-powershell"
-	"github.com/gorillalabs/go-powershell/backend"
-	"github.com/gorillalabs/go-powershell/middleware"
+	ps "github.com/ao-com/go-powershell"
+	"github.com/ao-com/go-powershell/backend"
+	"github.com/ao-com/go-powershell/middleware"
 )
 
 func main() {

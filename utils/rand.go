@@ -1,5 +1,3 @@
-// Copyright (c) 2017 Gorillalabs. All rights reserved.
-
 package utils
 
 import (
